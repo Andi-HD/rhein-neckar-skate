@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/Andi-HD/rhein-neckar-skate/sitemap.xml
+Sitemap: https://andi-hd.github.io/rhein-neckar-skate/sitemap.xml
