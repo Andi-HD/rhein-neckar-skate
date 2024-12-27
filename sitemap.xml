@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://rhein-neckar-skate.de/aktuelles/</loc>
-<lastmod>2024-12-27T14:34:50+01:00</lastmod>
+<lastmod>2024-12-27T15:00:19+01:00</lastmod>
 <image:image>
 <image:loc>https://rhein-neckar-skate.de/media/posts/4/Aktuelles2-blue.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -26,7 +26,11 @@
 </url>
 <url>
 <loc>https://rhein-neckar-skate.de/hinweise/</loc>
-<lastmod>2024-12-25T20:54:31+01:00</lastmod>
+<lastmod>2024-12-27T15:08:59+01:00</lastmod>
+<image:image>
+<image:loc>https://rhein-neckar-skate.de/media/posts/2/Hinweis_icon_blue.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://rhein-neckar-skate.de/impressum/</loc>
@@ -34,7 +38,7 @@
 </url>
 <url>
 <loc>https://rhein-neckar-skate.de/inline-skate-termine-2025/</loc>
-<lastmod>2024-12-27T14:43:19+01:00</lastmod>
+<lastmod>2024-12-27T15:00:28+01:00</lastmod>
 <image:image>
 <image:loc>https://rhein-neckar-skate.de/media/posts/1/Termine2_icon-blue.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -42,9 +46,9 @@
 </url>
 <url>
 <loc>https://rhein-neckar-skate.de/wetter/</loc>
-<lastmod>2024-11-26T20:38:12+01:00</lastmod>
+<lastmod>2024-12-27T14:59:28+01:00</lastmod>
 <image:image>
-<image:loc>https://rhein-neckar-skate.de/media/posts/9/wetter2_icon.png</image:loc>
+<image:loc>https://rhein-neckar-skate.de/media/posts/9/wetter2_icon-blue.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
