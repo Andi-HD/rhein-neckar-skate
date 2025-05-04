@@ -5,13 +5,13 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
             <title>RNS-Termine - [fi&#x3D;home] </title>
-        <meta name="description" content="Die nächsten, geplanten Veranstaltungen der Rhein-Neckar Skater e.V. findet ihr hier unten stehend. Für weitere Informationen oder Anmeldungen werden ihr&hellip;" />
+        <meta name="description" content="Die nächsten, geplanten Veranstaltungen der Rhein-Neckar Skater e.V. findet ihr hier unten stehend. Für weitere Informationen oder Anmeldungen werden ihr&hellip;">
         
-        <meta name="generator" content="Publii Open-Source CMS for Static Site" />
+        <meta name="generator" content="Publii Open-Source CMS for Static Site">
 
         <link rel="canonical" href="https://rhein-neckar-skate.de/aktuelle/">
         
-        <meta property="og:title" content="RNS-Termine" /><meta property="og:image" content="https://rhein-neckar-skate.de/media/posts/6/Aktuelles2-blue.png"/><meta property="og:image:width" content="408" /><meta property="og:image:height" content="148" /><meta property="og:site_name" content="Rhein-Neckar Skate" /><meta property="og:description" content="Die nächsten, geplanten Veranstaltungen der Rhein-Neckar Skater e.V. findet ihr hier unten stehend. Für weitere Informationen oder Anmeldungen werden ihr&hellip;" /><meta property="og:url" content="https://rhein-neckar-skate.de//aktuelle/" /><meta property="og:type" content="article" />
+        <meta property="og:title" content="RNS-Termine"><meta property="og:image" content="https://rhein-neckar-skate.de/media/posts/6/Aktuelles2-blue.png"><meta property="og:image:width" content="408"><meta property="og:image:height" content="148"><meta property="og:site_name" content="Rhein-Neckar Skate"><meta property="og:description" content="Die nächsten, geplanten Veranstaltungen der Rhein-Neckar Skater e.V. findet ihr hier unten stehend. Für weitere Informationen oder Anmeldungen werden ihr&hellip;"><meta property="og:url" content="https://rhein-neckar-skate.de/aktuelle/"><meta property="og:type" content="article">
 	        <link rel="shortcut icon" href="https://rhein-neckar-skate.de/media/website/canvas4.png" type="image/x-icon" />
            <link rel="preload" href="https://rhein-neckar-skate.de/assets/dynamic/fonts/publicsans/publicsans.woff2" as="font" type="font/woff2" crossorigin>
         <link rel="stylesheet" href="https://rhein-neckar-skate.de/assets/css/style.css?v=cf4a695f755fc03e06456319fef55a60">
@@ -312,7 +312,7 @@
                             type="checkbox" 
                             data-group-name=""
                             id="pcb-group-0" 
-                            checked />
+                            checked>
                         <label for="pcb-group-0">Required</label>
                     </div>
                 </li>
@@ -670,7 +670,7 @@
             console.log('🍪 Allowed group: ' + allowedGroup);
         }
 
-        if (window.publiiCBGCM && cbConfig.initialLsState.indexOf(allowedGroup) === -1) {
+        if (window.publiiCBGCM && (!cbConfig.initialLsState || cbConfig.initialLsState.indexOf(allowedGroup) === -1)) {
             let consentResult = {};
             let group = window.publiiCBGCM.groups.find(group => group.cookieGroup === allowedGroup);
 
